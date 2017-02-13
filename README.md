@@ -3,7 +3,7 @@ Some games from the book "Invent Your Own Computer Games with Python, 3rd Editio
 
 There are a number of small games in here, which I copied from the book I just mentioned and modified some of them.
 
-The last game named "Dodger" is fun and I recommend it to you!
+The last game named "Dodger" is fun since it use Pygame library and I recommend it to you!
 
 I will add more games in later days.
 

@@ -89,5 +89,5 @@ ENV/
 .ropeproject
 
 # Wing IDE project files
-.wpu
-.wpr
+*.wpu
+*.wpr
